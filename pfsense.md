@@ -63,7 +63,12 @@ A imagem será do tipo **QCOW2** o  nome será **virtioa.qcow2**, terá o tamanh
 qemu-img create -f qcow2 virtioa.qcow2 16G
 ```
 
-## 🚀Ciar um nó em laboratório e realizar a instalação PFSENSE<a id="pfsense"></a>
+Após criarmos os arquivos, vamos corrigir as permissões do PNETLAB:
+```
+unl_wrapper -a fixpermissions
+```
+
+## 🚀Criar um nó em laboratório e realizar a instalação PFSENSE<a id="pfsense"></a>
 Criaremos um nó utilizando o PFSENSE em um laboratório qualquer dentro do PNETLAB, selecionando a quantidade necessária de interfaces, CPU e memória a seu critério, onde ao iniciar o nó criado, prosseguiremos com a instalação do PFSENSE.
 
 Acompanhe os passos seguintes através do Vídeo:
