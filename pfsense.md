@@ -40,7 +40,7 @@ cd /opt/unetlab/addos/qemu/pfsense-2.7.2-CE
 Baixar a imagem dentro na pasta criada, utilizando o comando WGET + **Link copiado do botão DOWNLOAD**:
 
 ```
-wget https://atxfiles.netgate.com/mirror/downloads/pfSense-CE-2.7.2-RELEASE-amd64.iso.gz?_gl=1*1gfyx1z*_ga*MTc5ODc0MDQyNC4xNzA5MTg2MjY2*_ga_TM99KBGXCB*MTcxMDQxMjc0Ni4zLjAuMTcxMDQxMjc0Ni42MC4wLjA.
+wget https://atxfiles.netgate.com/mirror/downloads/pfSense-CE-2.7.2-RELEASE-amd64.iso.gz
 ```
 
 Descompactar o arquivo baixado:
