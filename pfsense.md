@@ -60,7 +60,7 @@ A imagem será do tipo **QCOW2** o  nome será **virtioa.qcow2**, terá o tamanh
 [(VEJA AQUI O PADRÃO DE CRIAÇÃO DE NOMES DE PASTAS E ARQUIVOS DE IMAGENS)](https://github.com/sanderethx/pnetlabv6/blob/main/padrao-pastas.md)
 
 ```
-qemu-img create -f qcow2 virtoa.qcow2 16G
+qemu-img create -f qcow2 virtioa.qcow2 16G
 ```
 
 ## 🚀Ciar um nó em laboratório e realizar a instalação PFSENSE<a id="pfsense"></a>
