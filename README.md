@@ -15,15 +15,14 @@
 
 Para criação de imagens customizadas do PFSENSE: CLIQUE AQUI!
 
-## 🚀Criação de imagem do SOPHOS<a id="pfsense"></a>
+## 🚀Criação de imagem do SOPHOS<a id="sophos"></a>
 
 Para criação de imagens customizadas do SOPHOS: CLIQUE AQUI!
 
-## 🚀Criação de imagem do LINUX<a id="pfsense"></a>
+## 🚀Criação de imagem do LINUX<a id="linux"></a>
 
 Para criação de imagens customizadas do LINUX: CLIQUE AQUI!
 
-## 🚀Criação de imagem do WINDOWS<a id="pfsense"></a>
+## 🚀Criação de imagem do WINDOWS<a id="windows"></a>
 
 Para criação de imagens customizadas do WINDOWS: CLIQUE AQUI!
-
